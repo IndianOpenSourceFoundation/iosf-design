@@ -9,7 +9,6 @@ Iosf-design is an open source initiative by iosf. A collection of 100% free open
 3. Work on an anything you are comfortable with. It can be logos, Icons, Fonts etc.
 	- Place the right thing in the right folder. If folder is not there. You can create your own.
 	- Make a new branch i.e <font color="#C6FFDD"><strong>your-name-design</strong></font>
-	- Mix & match pieces of existing icons
 4. Save your work with a git commit.
 5. Submit a pull request back to this project.
 6. Have a tasty beverage & celebrate being an open source designer :)
